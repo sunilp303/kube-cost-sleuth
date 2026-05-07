@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/sunilp303/kube-cost-sleuth.git
-cd k8s-cost-analyzer
+cd kube-cost-sleuth
 pip install -r requirements.txt
 ```
 
