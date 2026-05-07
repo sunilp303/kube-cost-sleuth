@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/k8s-cost-analyzer.git
+git clone https://github.com/sunilp303/kube-cost-sleuth.git
 cd k8s-cost-analyzer
 pip install -r requirements.txt
 ```
